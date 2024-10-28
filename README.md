@@ -7,7 +7,7 @@ A simple task management API built with Lumen.
 - [Installation](#installation)
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
-)
+
 
 ## Installation
 
