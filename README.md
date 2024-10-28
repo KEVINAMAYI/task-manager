@@ -46,7 +46,7 @@ php -S localhost:8000 -t public
 ## API Endpoints
 
 #### 1. POST /api/tasks - Create a new task
-#### 2. GET /api/tasks - Get a list of tasks
+#### 2. GET /api/tasks - Get a list of tasks/Filter for specific tasks
 #### 3. GET /api/tasks/{id} - Get a specific task
 #### 4. PUT /api/tasks/{id} - Update a specific task
 #### 5. DELETE /api/tasks/{id} - Delete a specific task
